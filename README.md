@@ -1,3 +1,14 @@
+## このリポジトリはオライリージャパンから出ている「Reactビギナーズガイド」のサンプルコードをTypescriptを使って書き直したものです。
+
+ディレクトリ構成は適当です。ご了承下さい。
+- 三章で作成したエクセル（JSX版）
+- 六章で作成したwhinepad（whinepadディレクトリ）
+- 八章で作成したwhinepadのflux版（whinepad3ディレクトリ）
+
+環境構築はcreate-react-appを行っています。
+以下readmeはcreate-react-appが自動で生成したものです。
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
